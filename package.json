@@ -1,0 +1,21 @@
+{
+  "name": "miscutils",
+  "version": "1.0.0",
+  "description": "Miscallenous Javascript utility functions.",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["miscallenous", "Javascript", "utility", "functions"],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/miscutils",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/miscutils/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/miscutils.git"
+  }
+}
