@@ -1,5 +1,5 @@
 {
-  "name": "miscutils",
+  "name": "@nodechessengineserver/miscutils",
   "version": "1.0.0",
   "description": "Miscallenous Javascript utility functions.",
   "main": "src/utils.js",
