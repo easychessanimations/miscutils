@@ -1,12 +1,17 @@
 {
   "name": "@nodechessengineserver/miscutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Miscallenous Javascript utility functions.",
   "main": "src/utils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["miscallenous", "Javascript", "utility", "functions"],
+  "keywords": [
+    "miscallenous",
+    "Javascript",
+    "utility",
+    "functions"
+  ],
   "author": "easychessanimations",
   "license": "MIT",
   "homepage": "https://github.com/easychessanimations/miscutils",
@@ -17,5 +22,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/easychessanimations/miscutils.git"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
